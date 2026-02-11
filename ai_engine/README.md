@@ -18,3 +18,4 @@ DocuMind AI is a privacy-first, offline AI system that lets users upload PDFs an
 ---
 
 ## 🧱 System Architecture
+
